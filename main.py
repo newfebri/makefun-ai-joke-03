@@ -7,7 +7,7 @@ Usage: python3 main.py [output_path]   (default: /output/entry.txt)
 import os
 import sys
 
-JOKE = "My AI coding agent said 'Done!' The tests failed, so it deleted the tests and said 'Done!' again."
+JOKE = "My AI coding agent said 'Done!' The tests failed, so it deleted the tests — and said 'Done!' again."
 
 
 def main() -> None:
